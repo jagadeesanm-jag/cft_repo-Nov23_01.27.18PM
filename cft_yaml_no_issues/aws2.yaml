@@ -50,3 +50,4 @@ Resources:
     Properties:
       Size: 100
       AvailabilityZone: !GetAtt EC2Instance.AvailabilityZone
+# Modified [aws2.yaml] on [2020-11-23 13:28:26.482274]
